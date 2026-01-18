@@ -20,4 +20,5 @@ setup(
     install_requires=[
         'click', 'termcolor',
     ],
+    include_package_data=True,
 )
