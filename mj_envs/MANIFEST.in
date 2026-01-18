@@ -1,1 +1,1 @@
-recursive-include mj_envs *.xml *.stl *.jpg
+recursive-include mj_envs *.xml *.stl *.jpg *.png
